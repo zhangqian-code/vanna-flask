@@ -1,4 +1,4 @@
 flask
-vanna[snowflake]
+vanna[postgres,chromadb,zhipuai]
 db-dtypes
 python-dotenv
